@@ -36,7 +36,7 @@ header {
   padding: 15px 20px;
 }
 
-.searc-form-button {
+.search-form-button {
   background: purple;
   padding: 15px 30px;
   border: none;
@@ -76,7 +76,7 @@ footer {
   font-weight: 500;
 }
 
-.weather-app-details strong {
+.weather-app-details-strong {
   color: f65282;
 }
 
